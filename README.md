@@ -1,4 +1,4 @@
-# KARMA Wireless Attack Tool v2.0
+# KARMA Wireless Attack Tool
 
 ![Banner](https://via.placeholder.com/800x200?text=KARMA+Wireless+Attack+Tool+v2.0)  
 Advanced Wi-Fi penetration testing toolkit with automated attack selection and cross-platform support.
