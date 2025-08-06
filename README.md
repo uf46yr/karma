@@ -26,7 +26,7 @@ Advanced Wi-Fi penetration testing toolkit with automated attack selection and c
 ```bash
 git clone https://github.com/uf46yr/karma/
 
-cd karma-attack-tool
+cd karma
 
 chmod +x karma.sh
 ```
