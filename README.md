@@ -24,7 +24,7 @@ Advanced Wi-Fi penetration testing toolkit with automated attack selection and c
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/karma-attack-tool.git
+git clone https://github.com/uf46yr/karma/
 
 cd karma-attack-tool
 
